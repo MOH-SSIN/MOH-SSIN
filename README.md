@@ -72,7 +72,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MOH-SSIN&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C8BE25&icon_color=C8BE25&hide=contribs,issues" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOH-SSIN&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C8BE25" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOH-SSIN&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C8BE25&hide=cmake,makefile,shell&langs_count=8" alt="Top Languages" height="180">
 </p>
 
 <br>
