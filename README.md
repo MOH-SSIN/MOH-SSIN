@@ -25,32 +25,5 @@
 <br>
 
 
-## <picture> <img src="https://github.com/MOHCINE9AWS/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
-
-<p align="center">
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/MOHCINE9AWS">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces"/>
-  </a>
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/MOHCINE9AWS/">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
-  </a>
-  <!-- AtCoder -->
-  <a href="https://atcoder.jp/users/MOHCINE9AWS">
-    <img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width="60px"/>
-  </a>
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/MOHCINE9AWS">
-    <img src="https://img.icons8.com/color/50/000000/codechef.png" alt="CodeChef"/>
-  </a>
-  <!-- ICPC Global -->
-  <a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9">
-    <img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width="60px"/>
-  </a>     
-  <!-- Codingame -->
-  <a href="https://www.codingame.com/profile/MOHCINE9AWS">
-    <img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50"/>
-  </a>
-</p>
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
