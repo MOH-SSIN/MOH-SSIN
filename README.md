@@ -20,4 +20,4 @@
 - :nerd_face: Always `learning new things` and improving my skills.  
 - :rocket: Exploring new technologies and building `projects`.  
 - :thinking: I’m currently open to a new `internship` or `job opportunity`.  
-- :boom: Check out my [GitHub](https://) for my projects and contributions.
+- :boom: Check out my [GitHub](https://github.com/MOH-SSIN/MOH-SSIN) for my projects and contributions.
