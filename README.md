@@ -33,16 +33,11 @@
   <a href="https://github.com/MOH-SSIN"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p> -->
 
-
 <h1 align="center">Hi , I'm Mohcine <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=220&lines=%F0%9F%92%BB+Computer+Science+Student+at+42+%26+EST;%F0%9F%9A%80+Passionate+about+software;%26+system%2Fweb+development;%E2%9A%99%EF%B8%8F+Exploring+new+tech+%26+building+projects;%F0%9F%90%A7+Linux+%26+networking+lover;%E2%98%86+Future+software+engineer">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MOH-SSIN&label=Profile%20Views&color=C8BE25&style=flat" alt="Profile Views">
 </p>
 
 <br>
@@ -66,7 +61,9 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,linux,bash,vim,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,html,css,nodejs,laravel,mysql,git,linux" />
+  <br>
+  <i>And more...</i>
 </p>
 
 <br>
