@@ -21,3 +21,8 @@
 - :rocket: Exploring new technologies and building `projects`.  
 - :thinking: I’m currently open to a new `internship` or `job opportunity`.  
 - :boom: Check out my [GitHub](https://github.com/MOH-SSIN/MOH-SSIN) for my projects and contributions.
+
+<br>
+
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
