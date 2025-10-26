@@ -64,10 +64,3 @@
 <p align="center">
   <i>⭐ Star my repositories if you find them useful!</i>
 </p>
-
-
-<div align="center">
-<br>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/belguabd" alt="belguabd's 42 stats" /></a>
-
-</div>
